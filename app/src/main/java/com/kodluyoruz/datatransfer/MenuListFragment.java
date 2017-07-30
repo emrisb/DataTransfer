@@ -29,7 +29,6 @@ public class MenuListFragment extends Fragment implements View.OnClickListener {
 
         edtAnaMenu.setText("Kuru Fasulye");
         btnGonder.setOnClickListener(this);
-
         return view;
     }
 
